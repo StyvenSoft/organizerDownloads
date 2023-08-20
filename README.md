@@ -16,7 +16,7 @@ To run Download Organizer, follow these steps:
 3. Run the following command:
 
 ```bash
-$ sh download_organizer.sh
+$ sh organizerDownloads.sh
 ```
 
 ### Personalization
